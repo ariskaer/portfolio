@@ -1,4 +1,4 @@
-import './globals.css'  // ← Эта строка должна быть вверху!
+import './globals.css'  // ← Эта строка ОБЯЗАТЕЛЬНА!
 
 export const metadata = {
   title: "Портфолио | Шведова Арина - Frontend Разработчик",
