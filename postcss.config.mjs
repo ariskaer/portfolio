@@ -1,7 +1,9 @@
-const config = {
-  plugins: {
-    "@tailwindcss/postcss": {},
+сonst nextConfig = {
+  output: 'export', 
+  images: {
+    unoptimized: true,  
   },
-};
+  basePath: '/portfolio', 
+}
 
-export default config;
+export default nextConfig
