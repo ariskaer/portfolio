@@ -1,9 +1,8 @@
-// src/app/layout.js
-import './globals.css'  // ← Эта строка должна быть!
+import './globals.css'  // ← Эта строка должна быть вверху!
 
 export const metadata = {
-  title: "Портфолио | Шведова Арина",
-  description: "Frontend разработчик. Проекты, навыки, контакты.",
+  title: "Портфолио | Шведова Арина - Frontend Разработчик",
+  description: "Персональное портфолио frontend разработчика.",
 };
 
 export default function RootLayout({ children }) {
