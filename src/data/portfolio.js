@@ -7,8 +7,8 @@ export const portfolioData = {
     about: "Привет! Я создаю цифровые миры с помощью кода. Моя страсть — превращать идеи в работающие веб-приложения. Постоянно учусь новому и не боюсь сложных задач. Готова создать что-то потрясающее для вашего проекта!",
     location: "Санкт-Петербург, Россия",
     available: "Открыта к предложениям",
-    photo: "/my-photo.jpg",
-    resume: "/resume.pdf",
+    photo: "/portfolio/my-photo.jpg",
+    resume: "/portfolio/resume.pdf",
     experience: 2
   },
   skills: [
@@ -31,7 +31,7 @@ export const portfolioData = {
       // 🔗 Замените на реальные ссылки, когда задеплоите проект:
       linkDemo: "https://ariskaer.github.io/coffee-shop/",
       linkCode: "https://github.com/ariskaer/coffee-shop",
-      image: "/coffee.jpg"
+      image: "/portfolio/coffee.jpg"
     },
     {
       id: 2,
@@ -41,7 +41,7 @@ export const portfolioData = {
       category: "fullstack",
       linkDemo: "#",
       linkCode: "#",
-      image: "/project2.jpg"
+      image: "/portfolio/project2.jpg"
     }
   ],
   contacts: {
