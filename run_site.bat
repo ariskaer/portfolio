@@ -16,3 +16,4 @@ echo [2/2] Starting the local development server...
 echo The site will be available at http://localhost:3000
 call npm run dev
 pause
+скр
